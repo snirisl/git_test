@@ -1,0 +1,1 @@
+This is Snir's first git project!
